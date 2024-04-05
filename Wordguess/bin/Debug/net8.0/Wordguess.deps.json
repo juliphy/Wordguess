@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Wordguess/1.0.0": {
+        "dependencies": {
+          "GuessLib": "1.0.0"
+        },
+        "runtime": {
+          "Wordguess.dll": {}
+        }
+      },
+      "GuessLib/1.0.0": {
+        "runtime": {
+          "GuessLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wordguess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GuessLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
